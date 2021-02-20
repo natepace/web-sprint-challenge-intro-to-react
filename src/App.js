@@ -44,6 +44,7 @@ function App() {
   // side effect in a component, you want to think about which state and/or props it should
   // sync up with, if any.
   // console.log(starWarsData.results);
+ 
   return (
     <Stylediv className="App">
       <StyleBig className="Header">STAR WARS CHARACTERS</StyleBig>
